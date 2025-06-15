@@ -1,0 +1,40 @@
+
+version: 2
+
+models:
+  - name: sem_dim_werkgever
+    columns:
+     - name: werkgever_wid
+       tests: 
+        - unique
+        - not_null
+     - name: bezoekersfrequentie
+       tests: 
+        - positive_value
+
+  - name: sem_fct_prestaties
+    columns:
+     - name: werkgever_wid
+       tests: 
+        - relationships:
+            to: ref('sem_dim_werkgever')
+            field: werkgever_wid
+     - name: personeel_wid
+       tests: 
+        - relationships:
+            to: ref('sem_dim_personeel')
+            field: personeel_wid
+
+  - name: sem_dim_personeel
+    columns:
+     - name: personeel_wid
+       tests: 
+        - unique
+        - not_null
+     - name: personeel_naam
+       tests: 
+        - not_null
+     - name: personeelstype
+       tests: 
+          - accepted_values:
+              values: ['DR', 'RAD', 'ERG', 'NULL', 'PSY', 'ING', 'VPL', 'UNS', 'ADM']

@@ -1,0 +1,14 @@
+version: 2
+
+sources:
+  - name: prestaties
+    schema: cur
+    tables:
+      - name: prestaties
+        identifier: fct_prestaties
+
+      - name: personeel
+        identifier: dim_personeel
+
+      - name: werkgever
+        identifier: dim_werkgever
