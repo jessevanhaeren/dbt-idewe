@@ -1,40 +1,43 @@
-
 version: 2
 
 models:
   - name: sem_dim_werkgever
+    description: This table contains all werkgever information, with werkgever details like werkgever taal & werkgever regio.
     columns:
-     - name: werkgever_wid
-       tests: 
-        - unique
-        - not_null
-     - name: bezoekersfrequentie
-       tests: 
-        - positive_value
+      - name: werkgever_wid
+        description: The primary key of the werkgever dimension, references the sem_fct_prestaties.
+        tests: 
+          - unique
+          - not_null
+      - name: bezoekersfrequentie
+        tests: 
+          - positive_value
+      - name: werkgever_regio
+        description: '{{ doc("sem_dim_werkgever_werkgever_regio") }}'
 
   - name: sem_fct_prestaties
     columns:
-     - name: werkgever_wid
-       tests: 
-        - relationships:
-            to: ref('sem_dim_werkgever')
-            field: werkgever_wid
-     - name: personeel_wid
-       tests: 
-        - relationships:
-            to: ref('sem_dim_personeel')
-            field: personeel_wid
+      - name: werkgever_wid
+        tests: 
+          - relationships:
+              to: ref('sem_dim_werkgever')
+              field: werkgever_wid
+      - name: personeel_wid
+        tests: 
+          - relationships:
+              to: ref('sem_dim_personeel')
+              field: personeel_wid
 
   - name: sem_dim_personeel
     columns:
-     - name: personeel_wid
-       tests: 
-        - unique
-        - not_null
-     - name: personeel_naam
-       tests: 
-        - not_null
-     - name: personeelstype
-       tests: 
+      - name: personeel_wid
+        tests: 
+          - unique
+          - not_null
+      - name: personeel_naam
+        tests: 
+          - not_null
+      - name: personeelstype
+        tests: 
           - accepted_values:
               values: ['DR', 'RAD', 'ERG', 'NULL', 'PSY', 'ING', 'VPL', 'UNS', 'ADM']
