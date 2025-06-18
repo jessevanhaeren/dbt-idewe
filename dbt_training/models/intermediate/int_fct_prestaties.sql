@@ -13,6 +13,6 @@ WHERE [prestatie_duur] is not null
 
 {% if is_incremental() %}
 
-    AND [wgprestatie_wid] > (select max([wgprestatie_wid]) from {{this}})
+    AND [datum_wid] > (select max([datum_wid]) from {{this}})
 
 {% endif %}
