@@ -1,0 +1,582 @@
+﻿CD_REFNIS,TX_DESCR_NL,TX_DESCR_FR,CD_DSTR_REFNIS,TX_ADM_DSTR_DESCR_NL,TX_ADM_DSTR_DESCR_FR,CD_PROV_REFNIS,TX_PROV_DESCR_NL,TX_PROV_DESCR_FR,CD_RGN_REFNIS,TX_RGN_DESCR_NL,TX_RGN_DESCR_FR
+11001,Aartselaar,Aartselaar,11000,Arrondissement Antwerpen,Arrondissement d’Anvers,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+11002,Antwerpen,Anvers,11000,Arrondissement Antwerpen,Arrondissement d’Anvers,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+11004,Boechout,Boechout,11000,Arrondissement Antwerpen,Arrondissement d’Anvers,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+11005,Boom,Boom,11000,Arrondissement Antwerpen,Arrondissement d’Anvers,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+11007,Borsbeek,Borsbeek,11000,Arrondissement Antwerpen,Arrondissement d’Anvers,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+11008,Brasschaat,Brasschaat,11000,Arrondissement Antwerpen,Arrondissement d’Anvers,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+11009,Brecht,Brecht,11000,Arrondissement Antwerpen,Arrondissement d’Anvers,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+11013,Edegem,Edegem,11000,Arrondissement Antwerpen,Arrondissement d’Anvers,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+11016,Essen,Essen,11000,Arrondissement Antwerpen,Arrondissement d’Anvers,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+11018,Hemiksem,Hemiksem,11000,Arrondissement Antwerpen,Arrondissement d’Anvers,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+11021,Hove,Hove,11000,Arrondissement Antwerpen,Arrondissement d’Anvers,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+11022,Kalmthout,Kalmthout,11000,Arrondissement Antwerpen,Arrondissement d’Anvers,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+11023,Kapellen,Kapellen,11000,Arrondissement Antwerpen,Arrondissement d’Anvers,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+11024,Kontich,Kontich,11000,Arrondissement Antwerpen,Arrondissement d’Anvers,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+11025,Lint,Lint,11000,Arrondissement Antwerpen,Arrondissement d’Anvers,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+11029,Mortsel,Mortsel,11000,Arrondissement Antwerpen,Arrondissement d’Anvers,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+11030,Niel,Niel,11000,Arrondissement Antwerpen,Arrondissement d’Anvers,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+11035,Ranst,Ranst,11000,Arrondissement Antwerpen,Arrondissement d’Anvers,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+11037,Rumst,Rumst,11000,Arrondissement Antwerpen,Arrondissement d’Anvers,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+11038,Schelle,Schelle,11000,Arrondissement Antwerpen,Arrondissement d’Anvers,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+11039,Schilde,Schilde,11000,Arrondissement Antwerpen,Arrondissement d’Anvers,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+11040,Schoten,Schoten,11000,Arrondissement Antwerpen,Arrondissement d’Anvers,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+11044,Stabroek,Stabroek,11000,Arrondissement Antwerpen,Arrondissement d’Anvers,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+11050,Wijnegem,Wijnegem,11000,Arrondissement Antwerpen,Arrondissement d’Anvers,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+11052,Wommelgem,Wommelgem,11000,Arrondissement Antwerpen,Arrondissement d’Anvers,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+11053,Wuustwezel,Wuustwezel,11000,Arrondissement Antwerpen,Arrondissement d’Anvers,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+11054,Zandhoven,Zandhoven,11000,Arrondissement Antwerpen,Arrondissement d’Anvers,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+11055,Zoersel,Zoersel,11000,Arrondissement Antwerpen,Arrondissement d’Anvers,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+11056,Zwijndrecht,Zwijndrecht,11000,Arrondissement Antwerpen,Arrondissement d’Anvers,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+11057,Malle,Malle,11000,Arrondissement Antwerpen,Arrondissement d’Anvers,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+12002,Berlaar,Berlaar,12000,Arrondissement Mechelen,Arrondissement de Malines,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+12005,Bonheiden,Bonheiden,12000,Arrondissement Mechelen,Arrondissement de Malines,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+12007,Bornem,Bornem,12000,Arrondissement Mechelen,Arrondissement de Malines,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+12009,Duffel,Duffel,12000,Arrondissement Mechelen,Arrondissement de Malines,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+12014,Heist-op-den-Berg,Heist-op-den-Berg,12000,Arrondissement Mechelen,Arrondissement de Malines,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+12021,Lier,Lierre,12000,Arrondissement Mechelen,Arrondissement de Malines,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+12025,Mechelen,Malines,12000,Arrondissement Mechelen,Arrondissement de Malines,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+12026,Nijlen,Nijlen,12000,Arrondissement Mechelen,Arrondissement de Malines,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+12029,Putte,Putte,12000,Arrondissement Mechelen,Arrondissement de Malines,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+12035,Sint-Katelijne-Waver,Sint-Katelijne-Waver,12000,Arrondissement Mechelen,Arrondissement de Malines,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+12040,Willebroek,Willebroek,12000,Arrondissement Mechelen,Arrondissement de Malines,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+12041,Puurs-Sint-Amands,Puurs-Sint-Amands,12000,Arrondissement Mechelen,Arrondissement de Malines,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+13001,Arendonk,Arendonk,13000,Arrondissement Turnhout,Arrondissement de Turnhout,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+13002,Baarle-Hertog,Baerle-Duc,13000,Arrondissement Turnhout,Arrondissement de Turnhout,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+13003,Balen,Balen,13000,Arrondissement Turnhout,Arrondissement de Turnhout,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+13004,Beerse,Beerse,13000,Arrondissement Turnhout,Arrondissement de Turnhout,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+13006,Dessel,Dessel,13000,Arrondissement Turnhout,Arrondissement de Turnhout,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+13008,Geel,Geel,13000,Arrondissement Turnhout,Arrondissement de Turnhout,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+13010,Grobbendonk,Grobbendonk,13000,Arrondissement Turnhout,Arrondissement de Turnhout,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+13011,Herentals,Herentals,13000,Arrondissement Turnhout,Arrondissement de Turnhout,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+13012,Herenthout,Herenthout,13000,Arrondissement Turnhout,Arrondissement de Turnhout,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+13013,Herselt,Herselt,13000,Arrondissement Turnhout,Arrondissement de Turnhout,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+13014,Hoogstraten,Hoogstraten,13000,Arrondissement Turnhout,Arrondissement de Turnhout,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+13016,Hulshout,Hulshout,13000,Arrondissement Turnhout,Arrondissement de Turnhout,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+13017,Kasterlee,Kasterlee,13000,Arrondissement Turnhout,Arrondissement de Turnhout,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+13019,Lille,Lille,13000,Arrondissement Turnhout,Arrondissement de Turnhout,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+13021,Meerhout,Meerhout,13000,Arrondissement Turnhout,Arrondissement de Turnhout,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+13023,Merksplas,Merksplas,13000,Arrondissement Turnhout,Arrondissement de Turnhout,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+13025,Mol,Mol,13000,Arrondissement Turnhout,Arrondissement de Turnhout,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+13029,Olen,Olen,13000,Arrondissement Turnhout,Arrondissement de Turnhout,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+13031,Oud-Turnhout,Oud-Turnhout,13000,Arrondissement Turnhout,Arrondissement de Turnhout,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+13035,Ravels,Ravels,13000,Arrondissement Turnhout,Arrondissement de Turnhout,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+13036,Retie,Retie,13000,Arrondissement Turnhout,Arrondissement de Turnhout,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+13037,Rijkevorsel,Rijkevorsel,13000,Arrondissement Turnhout,Arrondissement de Turnhout,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+13040,Turnhout,Turnhout,13000,Arrondissement Turnhout,Arrondissement de Turnhout,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+13044,Vorselaar,Vorselaar,13000,Arrondissement Turnhout,Arrondissement de Turnhout,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+13046,Vosselaar,Vosselaar,13000,Arrondissement Turnhout,Arrondissement de Turnhout,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+13049,Westerlo,Westerlo,13000,Arrondissement Turnhout,Arrondissement de Turnhout,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+13053,Laakdal,Laakdal,13000,Arrondissement Turnhout,Arrondissement de Turnhout,10000,Provincie Antwerpen,Province d’Anvers,02000,Vlaams Gewest,Région flamande
+21001,Anderlecht,Anderlecht,21000,Arrondissement Brussel-Hoofdstad,Arrondissement de Bruxelles-Capitale,,,,04000,Brussels Hoofdstedelijk Gewest,Région de Bruxelles-Capitale
+21002,Oudergem,Auderghem,21000,Arrondissement Brussel-Hoofdstad,Arrondissement de Bruxelles-Capitale,,,,04000,Brussels Hoofdstedelijk Gewest,Région de Bruxelles-Capitale
+21003,Sint-Agatha-Berchem,Berchem-Sainte-Agathe,21000,Arrondissement Brussel-Hoofdstad,Arrondissement de Bruxelles-Capitale,,,,04000,Brussels Hoofdstedelijk Gewest,Région de Bruxelles-Capitale
+21004,Brussel,Bruxelles,21000,Arrondissement Brussel-Hoofdstad,Arrondissement de Bruxelles-Capitale,,,,04000,Brussels Hoofdstedelijk Gewest,Région de Bruxelles-Capitale
+21005,Etterbeek,Etterbeek,21000,Arrondissement Brussel-Hoofdstad,Arrondissement de Bruxelles-Capitale,,,,04000,Brussels Hoofdstedelijk Gewest,Région de Bruxelles-Capitale
+21006,Evere,Evere,21000,Arrondissement Brussel-Hoofdstad,Arrondissement de Bruxelles-Capitale,,,,04000,Brussels Hoofdstedelijk Gewest,Région de Bruxelles-Capitale
+21007,Vorst,Forest,21000,Arrondissement Brussel-Hoofdstad,Arrondissement de Bruxelles-Capitale,,,,04000,Brussels Hoofdstedelijk Gewest,Région de Bruxelles-Capitale
+21008,Ganshoren,Ganshoren,21000,Arrondissement Brussel-Hoofdstad,Arrondissement de Bruxelles-Capitale,,,,04000,Brussels Hoofdstedelijk Gewest,Région de Bruxelles-Capitale
+21009,Elsene,Ixelles,21000,Arrondissement Brussel-Hoofdstad,Arrondissement de Bruxelles-Capitale,,,,04000,Brussels Hoofdstedelijk Gewest,Région de Bruxelles-Capitale
+21010,Jette,Jette,21000,Arrondissement Brussel-Hoofdstad,Arrondissement de Bruxelles-Capitale,,,,04000,Brussels Hoofdstedelijk Gewest,Région de Bruxelles-Capitale
+21011,Koekelberg,Koekelberg,21000,Arrondissement Brussel-Hoofdstad,Arrondissement de Bruxelles-Capitale,,,,04000,Brussels Hoofdstedelijk Gewest,Région de Bruxelles-Capitale
+21012,Sint-Jans-Molenbeek,Molenbeek-Saint-Jean,21000,Arrondissement Brussel-Hoofdstad,Arrondissement de Bruxelles-Capitale,,,,04000,Brussels Hoofdstedelijk Gewest,Région de Bruxelles-Capitale
+21013,Sint-Gillis,Saint-Gilles,21000,Arrondissement Brussel-Hoofdstad,Arrondissement de Bruxelles-Capitale,,,,04000,Brussels Hoofdstedelijk Gewest,Région de Bruxelles-Capitale
+21014,Sint-Joost-ten-Node,Saint-Josse-ten-Noode,21000,Arrondissement Brussel-Hoofdstad,Arrondissement de Bruxelles-Capitale,,,,04000,Brussels Hoofdstedelijk Gewest,Région de Bruxelles-Capitale
+21015,Schaarbeek,Schaerbeek,21000,Arrondissement Brussel-Hoofdstad,Arrondissement de Bruxelles-Capitale,,,,04000,Brussels Hoofdstedelijk Gewest,Région de Bruxelles-Capitale
+21016,Ukkel,Uccle,21000,Arrondissement Brussel-Hoofdstad,Arrondissement de Bruxelles-Capitale,,,,04000,Brussels Hoofdstedelijk Gewest,Région de Bruxelles-Capitale
+21017,Watermaal-Bosvoorde,Watermael-Boitsfort,21000,Arrondissement Brussel-Hoofdstad,Arrondissement de Bruxelles-Capitale,,,,04000,Brussels Hoofdstedelijk Gewest,Région de Bruxelles-Capitale
+21018,Sint-Lambrechts-Woluwe,Woluwe-Saint-Lambert,21000,Arrondissement Brussel-Hoofdstad,Arrondissement de Bruxelles-Capitale,,,,04000,Brussels Hoofdstedelijk Gewest,Région de Bruxelles-Capitale
+21019,Sint-Pieters-Woluwe,Woluwe-Saint-Pierre,21000,Arrondissement Brussel-Hoofdstad,Arrondissement de Bruxelles-Capitale,,,,04000,Brussels Hoofdstedelijk Gewest,Région de Bruxelles-Capitale
+23002,Asse,Asse,23000,Arrondissement Halle-Vilvoorde,Arrondissement de Hal-Vilvorde,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+23003,Beersel,Beersel,23000,Arrondissement Halle-Vilvoorde,Arrondissement de Hal-Vilvorde,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+23009,Bever,Biévène,23000,Arrondissement Halle-Vilvoorde,Arrondissement de Hal-Vilvorde,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+23016,Dilbeek,Dilbeek,23000,Arrondissement Halle-Vilvoorde,Arrondissement de Hal-Vilvorde,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+23023,Galmaarden,Gammerages,23000,Arrondissement Halle-Vilvoorde,Arrondissement de Hal-Vilvorde,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+23024,Gooik,Gooik,23000,Arrondissement Halle-Vilvoorde,Arrondissement de Hal-Vilvorde,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+23025,Grimbergen,Grimbergen,23000,Arrondissement Halle-Vilvoorde,Arrondissement de Hal-Vilvorde,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+23027,Halle,Hal,23000,Arrondissement Halle-Vilvoorde,Arrondissement de Hal-Vilvorde,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+23032,Herne,Herne,23000,Arrondissement Halle-Vilvoorde,Arrondissement de Hal-Vilvorde,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+23033,Hoeilaart,Hoeilaart,23000,Arrondissement Halle-Vilvoorde,Arrondissement de Hal-Vilvorde,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+23038,Kampenhout,Kampenhout,23000,Arrondissement Halle-Vilvoorde,Arrondissement de Hal-Vilvorde,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+23039,Kapelle-op-den-Bos,Kapelle-op-den-Bos,23000,Arrondissement Halle-Vilvoorde,Arrondissement de Hal-Vilvorde,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+23044,Liedekerke,Liedekerke,23000,Arrondissement Halle-Vilvoorde,Arrondissement de Hal-Vilvorde,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+23045,Londerzeel,Londerzeel,23000,Arrondissement Halle-Vilvoorde,Arrondissement de Hal-Vilvorde,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+23047,Machelen,Machelen,23000,Arrondissement Halle-Vilvoorde,Arrondissement de Hal-Vilvorde,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+23050,Meise,Meise,23000,Arrondissement Halle-Vilvoorde,Arrondissement de Hal-Vilvorde,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+23052,Merchtem,Merchtem,23000,Arrondissement Halle-Vilvoorde,Arrondissement de Hal-Vilvorde,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+23060,Opwijk,Opwijk,23000,Arrondissement Halle-Vilvoorde,Arrondissement de Hal-Vilvorde,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+23062,Overijse,Overijse,23000,Arrondissement Halle-Vilvoorde,Arrondissement de Hal-Vilvorde,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+23064,Pepingen,Pepingen,23000,Arrondissement Halle-Vilvoorde,Arrondissement de Hal-Vilvorde,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+23077,Sint-Pieters-Leeuw,Sint-Pieters-Leeuw,23000,Arrondissement Halle-Vilvoorde,Arrondissement de Hal-Vilvorde,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+23081,Steenokkerzeel,Steenokkerzeel,23000,Arrondissement Halle-Vilvoorde,Arrondissement de Hal-Vilvorde,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+23086,Ternat,Ternat,23000,Arrondissement Halle-Vilvoorde,Arrondissement de Hal-Vilvorde,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+23088,Vilvoorde,Vilvorde,23000,Arrondissement Halle-Vilvoorde,Arrondissement de Hal-Vilvorde,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+23094,Zaventem,Zaventem,23000,Arrondissement Halle-Vilvoorde,Arrondissement de Hal-Vilvorde,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+23096,Zemst,Zemst,23000,Arrondissement Halle-Vilvoorde,Arrondissement de Hal-Vilvorde,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+23097,Roosdaal,Roosdaal,23000,Arrondissement Halle-Vilvoorde,Arrondissement de Hal-Vilvorde,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+23098,Drogenbos,Drogenbos,23000,Arrondissement Halle-Vilvoorde,Arrondissement de Hal-Vilvorde,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+23099,Kraainem,Kraainem,23000,Arrondissement Halle-Vilvoorde,Arrondissement de Hal-Vilvorde,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+23100,Linkebeek,Linkebeek,23000,Arrondissement Halle-Vilvoorde,Arrondissement de Hal-Vilvorde,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+23101,Sint-Genesius-Rode,Rhode-Saint-Genèse,23000,Arrondissement Halle-Vilvoorde,Arrondissement de Hal-Vilvorde,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+23102,Wemmel,Wemmel,23000,Arrondissement Halle-Vilvoorde,Arrondissement de Hal-Vilvorde,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+23103,Wezembeek-Oppem,Wezembeek-Oppem,23000,Arrondissement Halle-Vilvoorde,Arrondissement de Hal-Vilvorde,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+23104,Lennik,Lennik,23000,Arrondissement Halle-Vilvoorde,Arrondissement de Hal-Vilvorde,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+23105,Affligem,Affligem,23000,Arrondissement Halle-Vilvoorde,Arrondissement de Hal-Vilvorde,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+24001,Aarschot,Aarschot,24000,Arrondissement Leuven,Arrondissement de Louvain,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+24007,Begijnendijk,Begijnendijk,24000,Arrondissement Leuven,Arrondissement de Louvain,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+24008,Bekkevoort,Bekkevoort,24000,Arrondissement Leuven,Arrondissement de Louvain,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+24009,Bertem,Bertem,24000,Arrondissement Leuven,Arrondissement de Louvain,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+24011,Bierbeek,Bierbeek,24000,Arrondissement Leuven,Arrondissement de Louvain,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+24014,Boortmeerbeek,Boortmeerbeek,24000,Arrondissement Leuven,Arrondissement de Louvain,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+24016,Boutersem,Boutersem,24000,Arrondissement Leuven,Arrondissement de Louvain,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+24020,Diest,Diest,24000,Arrondissement Leuven,Arrondissement de Louvain,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+24028,Geetbets,Geetbets,24000,Arrondissement Leuven,Arrondissement de Louvain,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+24033,Haacht,Haacht,24000,Arrondissement Leuven,Arrondissement de Louvain,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+24038,Herent,Herent,24000,Arrondissement Leuven,Arrondissement de Louvain,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+24041,Hoegaarden,Hoegaarden,24000,Arrondissement Leuven,Arrondissement de Louvain,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+24043,Holsbeek,Holsbeek,24000,Arrondissement Leuven,Arrondissement de Louvain,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+24045,Huldenberg,Huldenberg,24000,Arrondissement Leuven,Arrondissement de Louvain,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+24048,Keerbergen,Keerbergen,24000,Arrondissement Leuven,Arrondissement de Louvain,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+24054,Kortenaken,Kortenaken,24000,Arrondissement Leuven,Arrondissement de Louvain,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+24055,Kortenberg,Kortenberg,24000,Arrondissement Leuven,Arrondissement de Louvain,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+24059,Landen,Landen,24000,Arrondissement Leuven,Arrondissement de Louvain,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+24062,Leuven,Louvain,24000,Arrondissement Leuven,Arrondissement de Louvain,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+24066,Lubbeek,Lubbeek,24000,Arrondissement Leuven,Arrondissement de Louvain,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+24086,Oud-Heverlee,Oud-Heverlee,24000,Arrondissement Leuven,Arrondissement de Louvain,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+24094,Rotselaar,Rotselaar,24000,Arrondissement Leuven,Arrondissement de Louvain,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+24104,Tervuren,Tervuren,24000,Arrondissement Leuven,Arrondissement de Louvain,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+24107,Tienen,Tirlemont,24000,Arrondissement Leuven,Arrondissement de Louvain,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+24109,Tremelo,Tremelo,24000,Arrondissement Leuven,Arrondissement de Louvain,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+24130,Zoutleeuw,Léau,24000,Arrondissement Leuven,Arrondissement de Louvain,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+24133,Linter,Linter,24000,Arrondissement Leuven,Arrondissement de Louvain,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+24134,Scherpenheuvel-Zichem,Montaigu-Zichem,24000,Arrondissement Leuven,Arrondissement de Louvain,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+24135,Tielt-Winge,Tielt-Winge,24000,Arrondissement Leuven,Arrondissement de Louvain,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+24137,Glabbeek,Glabbeek,24000,Arrondissement Leuven,Arrondissement de Louvain,20001,Provincie Vlaams-Brabant,Province du Brabant flamand,02000,Vlaams Gewest,Région flamande
+25005,Bevekom,Beauvechain,25000,Arrondissement Nijvel,Arrondissement de Nivelles,20002,Provincie Waals-Brabant,Province du Brabant wallon,03000,Waals Gewest,Région wallonne
+25014,Eigenbrakel,Braine-l’Alleud,25000,Arrondissement Nijvel,Arrondissement de Nivelles,20002,Provincie Waals-Brabant,Province du Brabant wallon,03000,Waals Gewest,Région wallonne
+25015,Kasteelbrakel,Braine-le-Château,25000,Arrondissement Nijvel,Arrondissement de Nivelles,20002,Provincie Waals-Brabant,Province du Brabant wallon,03000,Waals Gewest,Région wallonne
+25018,Chaumont-Gistoux,Chaumont-Gistoux,25000,Arrondissement Nijvel,Arrondissement de Nivelles,20002,Provincie Waals-Brabant,Province du Brabant wallon,03000,Waals Gewest,Région wallonne
+25023,Court-Saint-Etienne,Court-Saint-Etienne,25000,Arrondissement Nijvel,Arrondissement de Nivelles,20002,Provincie Waals-Brabant,Province du Brabant wallon,03000,Waals Gewest,Région wallonne
+25031,Genepiën,Genappe,25000,Arrondissement Nijvel,Arrondissement de Nivelles,20002,Provincie Waals-Brabant,Province du Brabant wallon,03000,Waals Gewest,Région wallonne
+25037,Graven,Grez-Doiceau,25000,Arrondissement Nijvel,Arrondissement de Nivelles,20002,Provincie Waals-Brabant,Province du Brabant wallon,03000,Waals Gewest,Région wallonne
+25043,Incourt,Incourt,25000,Arrondissement Nijvel,Arrondissement de Nivelles,20002,Provincie Waals-Brabant,Province du Brabant wallon,03000,Waals Gewest,Région wallonne
+25044,Itter,Ittre,25000,Arrondissement Nijvel,Arrondissement de Nivelles,20002,Provincie Waals-Brabant,Province du Brabant wallon,03000,Waals Gewest,Région wallonne
+25048,Geldenaken,Jodoigne,25000,Arrondissement Nijvel,Arrondissement de Nivelles,20002,Provincie Waals-Brabant,Province du Brabant wallon,03000,Waals Gewest,Région wallonne
+25050,Terhulpen,La Hulpe,25000,Arrondissement Nijvel,Arrondissement de Nivelles,20002,Provincie Waals-Brabant,Province du Brabant wallon,03000,Waals Gewest,Région wallonne
+25068,Mont-Saint-Guibert,Mont-Saint-Guibert,25000,Arrondissement Nijvel,Arrondissement de Nivelles,20002,Provincie Waals-Brabant,Province du Brabant wallon,03000,Waals Gewest,Région wallonne
+25072,Nijvel,Nivelles,25000,Arrondissement Nijvel,Arrondissement de Nivelles,20002,Provincie Waals-Brabant,Province du Brabant wallon,03000,Waals Gewest,Région wallonne
+25084,Perwijs,Perwez,25000,Arrondissement Nijvel,Arrondissement de Nivelles,20002,Provincie Waals-Brabant,Province du Brabant wallon,03000,Waals Gewest,Région wallonne
+25091,Rixensart,Rixensart,25000,Arrondissement Nijvel,Arrondissement de Nivelles,20002,Provincie Waals-Brabant,Province du Brabant wallon,03000,Waals Gewest,Région wallonne
+25105,Tubeke,Tubize,25000,Arrondissement Nijvel,Arrondissement de Nivelles,20002,Provincie Waals-Brabant,Province du Brabant wallon,03000,Waals Gewest,Région wallonne
+25107,Villers-la-Ville,Villers-la-Ville,25000,Arrondissement Nijvel,Arrondissement de Nivelles,20002,Provincie Waals-Brabant,Province du Brabant wallon,03000,Waals Gewest,Région wallonne
+25110,Waterloo,Waterloo,25000,Arrondissement Nijvel,Arrondissement de Nivelles,20002,Provincie Waals-Brabant,Province du Brabant wallon,03000,Waals Gewest,Région wallonne
+25112,Waver,Wavre,25000,Arrondissement Nijvel,Arrondissement de Nivelles,20002,Provincie Waals-Brabant,Province du Brabant wallon,03000,Waals Gewest,Région wallonne
+25117,Chastre,Chastre,25000,Arrondissement Nijvel,Arrondissement de Nivelles,20002,Provincie Waals-Brabant,Province du Brabant wallon,03000,Waals Gewest,Région wallonne
+25118,Hélécine,Hélécine,25000,Arrondissement Nijvel,Arrondissement de Nivelles,20002,Provincie Waals-Brabant,Province du Brabant wallon,03000,Waals Gewest,Région wallonne
+25119,Lasne,Lasne,25000,Arrondissement Nijvel,Arrondissement de Nivelles,20002,Provincie Waals-Brabant,Province du Brabant wallon,03000,Waals Gewest,Région wallonne
+25120,Orp-Jauche,Orp-Jauche,25000,Arrondissement Nijvel,Arrondissement de Nivelles,20002,Provincie Waals-Brabant,Province du Brabant wallon,03000,Waals Gewest,Région wallonne
+25121,Ottignies-Louvain-la-Neuve,Ottignies-Louvain-la-Neuve,25000,Arrondissement Nijvel,Arrondissement de Nivelles,20002,Provincie Waals-Brabant,Province du Brabant wallon,03000,Waals Gewest,Région wallonne
+25122,Ramillies,Ramillies,25000,Arrondissement Nijvel,Arrondissement de Nivelles,20002,Provincie Waals-Brabant,Province du Brabant wallon,03000,Waals Gewest,Région wallonne
+25123,Rebecq,Rebecq,25000,Arrondissement Nijvel,Arrondissement de Nivelles,20002,Provincie Waals-Brabant,Province du Brabant wallon,03000,Waals Gewest,Région wallonne
+25124,Walhain,Walhain,25000,Arrondissement Nijvel,Arrondissement de Nivelles,20002,Provincie Waals-Brabant,Province du Brabant wallon,03000,Waals Gewest,Région wallonne
+31003,Beernem,Beernem,31000,Arrondissement Brugge,Arrondissement de Bruges,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+31004,Blankenberge,Blankenberge,31000,Arrondissement Brugge,Arrondissement de Bruges,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+31005,Brugge,Bruges,31000,Arrondissement Brugge,Arrondissement de Bruges,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+31006,Damme,Damme,31000,Arrondissement Brugge,Arrondissement de Bruges,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+31012,Jabbeke,Jabbeke,31000,Arrondissement Brugge,Arrondissement de Bruges,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+31022,Oostkamp,Oostkamp,31000,Arrondissement Brugge,Arrondissement de Bruges,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+31033,Torhout,Torhout,31000,Arrondissement Brugge,Arrondissement de Bruges,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+31040,Zedelgem,Zedelgem,31000,Arrondissement Brugge,Arrondissement de Bruges,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+31042,Zuienkerke,Zuienkerke,31000,Arrondissement Brugge,Arrondissement de Bruges,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+31043,Knokke-Heist,Knokke-Heist,31000,Arrondissement Brugge,Arrondissement de Bruges,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+32003,Diksmuide,Dixmude,32000,Arrondissement Diksmuide,Arrondissement de Dixmude,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+32006,Houthulst,Houthulst,32000,Arrondissement Diksmuide,Arrondissement de Dixmude,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+32010,Koekelare,Koekelare,32000,Arrondissement Diksmuide,Arrondissement de Dixmude,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+32011,Kortemark,Kortemark,32000,Arrondissement Diksmuide,Arrondissement de Dixmude,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+32030,Lo-Reninge,Lo-Reninge,32000,Arrondissement Diksmuide,Arrondissement de Dixmude,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+33011,Ieper,Ypres,33000,Arrondissement Ieper,Arrondissement d’Ypres,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+33016,Mesen,Messines,33000,Arrondissement Ieper,Arrondissement d’Ypres,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+33021,Poperinge,Poperinge,33000,Arrondissement Ieper,Arrondissement d’Ypres,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+33029,Wervik,Wervik,33000,Arrondissement Ieper,Arrondissement d’Ypres,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+33037,Zonnebeke,Zonnebeke,33000,Arrondissement Ieper,Arrondissement d’Ypres,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+33039,Heuvelland,Heuvelland,33000,Arrondissement Ieper,Arrondissement d’Ypres,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+33040,Langemark-Poelkapelle,Langemark-Poelkapelle,33000,Arrondissement Ieper,Arrondissement d’Ypres,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+33041,Vleteren,Vleteren,33000,Arrondissement Ieper,Arrondissement d’Ypres,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+34002,Anzegem,Anzegem,34000,Arrondissement Kortrijk,Arrondissement de Courtrai,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+34003,Avelgem,Avelgem,34000,Arrondissement Kortrijk,Arrondissement de Courtrai,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+34009,Deerlijk,Deerlijk,34000,Arrondissement Kortrijk,Arrondissement de Courtrai,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+34013,Harelbeke,Harelbeke,34000,Arrondissement Kortrijk,Arrondissement de Courtrai,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+34022,Kortrijk,Courtrai,34000,Arrondissement Kortrijk,Arrondissement de Courtrai,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+34023,Kuurne,Kuurne,34000,Arrondissement Kortrijk,Arrondissement de Courtrai,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+34025,Lendelede,Lendelede,34000,Arrondissement Kortrijk,Arrondissement de Courtrai,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+34027,Menen,Menin,34000,Arrondissement Kortrijk,Arrondissement de Courtrai,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+34040,Waregem,Waregem,34000,Arrondissement Kortrijk,Arrondissement de Courtrai,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+34041,Wevelgem,Wevelgem,34000,Arrondissement Kortrijk,Arrondissement de Courtrai,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+34042,Zwevegem,Zwevegem,34000,Arrondissement Kortrijk,Arrondissement de Courtrai,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+34043,Spiere-Helkijn,Espierres-Helchin,34000,Arrondissement Kortrijk,Arrondissement de Courtrai,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+35002,Bredene,Bredene,35000,Arrondissement Oostende,Arrondissement d’Ostende,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+35005,Gistel,Gistel,35000,Arrondissement Oostende,Arrondissement d’Ostende,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+35006,Ichtegem,Ichtegem,35000,Arrondissement Oostende,Arrondissement d’Ostende,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+35011,Middelkerke,Middelkerke,35000,Arrondissement Oostende,Arrondissement d’Ostende,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+35013,Oostende,Ostende,35000,Arrondissement Oostende,Arrondissement d’Ostende,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+35014,Oudenburg,Oudenburg,35000,Arrondissement Oostende,Arrondissement d’Ostende,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+35029,De Haan,De Haan,35000,Arrondissement Oostende,Arrondissement d’Ostende,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+36006,Hooglede,Hooglede,36000,Arrondissement Roeselare,Arrondissement de Roulers,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+36007,Ingelmunster,Ingelmunster,36000,Arrondissement Roeselare,Arrondissement de Roulers,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+36008,Izegem,Izegem,36000,Arrondissement Roeselare,Arrondissement de Roulers,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+36010,Ledegem,Ledegem,36000,Arrondissement Roeselare,Arrondissement de Roulers,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+36011,Lichtervelde,Lichtervelde,36000,Arrondissement Roeselare,Arrondissement de Roulers,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+36012,Moorslede,Moorslede,36000,Arrondissement Roeselare,Arrondissement de Roulers,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+36015,Roeselare,Roulers,36000,Arrondissement Roeselare,Arrondissement de Roulers,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+36019,Staden,Staden,36000,Arrondissement Roeselare,Arrondissement de Roulers,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+37002,Dentergem,Dentergem,37000,Arrondissement Tielt,Arrondissement de Tielt,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+37007,Meulebeke,Meulebeke,37000,Arrondissement Tielt,Arrondissement de Tielt,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+37010,Oostrozebeke,Oostrozebeke,37000,Arrondissement Tielt,Arrondissement de Tielt,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+37011,Pittem,Pittem,37000,Arrondissement Tielt,Arrondissement de Tielt,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+37012,Ruiselede,Ruiselede,37000,Arrondissement Tielt,Arrondissement de Tielt,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+37015,Tielt,Tielt,37000,Arrondissement Tielt,Arrondissement de Tielt,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+37017,Wielsbeke,Wielsbeke,37000,Arrondissement Tielt,Arrondissement de Tielt,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+37018,Wingene,Wingene,37000,Arrondissement Tielt,Arrondissement de Tielt,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+37020,Ardooie,Ardooie,37000,Arrondissement Tielt,Arrondissement de Tielt,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+38002,Alveringem,Alveringem,38000,Arrondissement Veurne,Arrondissement de Furnes,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+38008,De Panne,La Panne,38000,Arrondissement Veurne,Arrondissement de Furnes,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+38014,Koksijde,Koksijde,38000,Arrondissement Veurne,Arrondissement de Furnes,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+38016,Nieuwpoort,Nieuport,38000,Arrondissement Veurne,Arrondissement de Furnes,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+38025,Veurne,Furnes,38000,Arrondissement Veurne,Arrondissement de Furnes,30000,Provincie West-Vlaanderen,Province de Flandre occidentale,02000,Vlaams Gewest,Région flamande
+41002,Aalst,Alost,41000,Arrondissement Aalst,Arrondissement d’Alost,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+41011,Denderleeuw,Denderleeuw,41000,Arrondissement Aalst,Arrondissement d’Alost,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+41018,Geraardsbergen,Grammont,41000,Arrondissement Aalst,Arrondissement d’Alost,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+41024,Haaltert,Haaltert,41000,Arrondissement Aalst,Arrondissement d’Alost,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+41027,Herzele,Herzele,41000,Arrondissement Aalst,Arrondissement d’Alost,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+41034,Lede,Lede,41000,Arrondissement Aalst,Arrondissement d’Alost,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+41048,Ninove,Ninove,41000,Arrondissement Aalst,Arrondissement d’Alost,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+41063,Sint-Lievens-Houtem,Sint-Lievens-Houtem,41000,Arrondissement Aalst,Arrondissement d’Alost,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+41081,Zottegem,Zottegem,41000,Arrondissement Aalst,Arrondissement d’Alost,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+41082,Erpe-Mere,Erpe-Mere,41000,Arrondissement Aalst,Arrondissement d’Alost,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+42003,Berlare,Berlare,42000,Arrondissement Dendermonde,Arrondissement de Termonde,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+42004,Buggenhout,Buggenhout,42000,Arrondissement Dendermonde,Arrondissement de Termonde,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+42006,Dendermonde,Termonde,42000,Arrondissement Dendermonde,Arrondissement de Termonde,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+42008,Hamme,Hamme,42000,Arrondissement Dendermonde,Arrondissement de Termonde,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+42010,Laarne,Laarne,42000,Arrondissement Dendermonde,Arrondissement de Termonde,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+42011,Lebbeke,Lebbeke,42000,Arrondissement Dendermonde,Arrondissement de Termonde,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+42023,Waasmunster,Waasmunster,42000,Arrondissement Dendermonde,Arrondissement de Termonde,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+42025,Wetteren,Wetteren,42000,Arrondissement Dendermonde,Arrondissement de Termonde,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+42026,Wichelen,Wichelen,42000,Arrondissement Dendermonde,Arrondissement de Termonde,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+42028,Zele,Zele,42000,Arrondissement Dendermonde,Arrondissement de Termonde,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+43002,Assenede,Assenede,43000,Arrondissement Eeklo,Arrondissement d’Eeklo,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+43005,Eeklo,Eeklo,43000,Arrondissement Eeklo,Arrondissement d’Eeklo,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+43007,Kaprijke,Kaprijke,43000,Arrondissement Eeklo,Arrondissement d’Eeklo,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+43010,Maldegem,Maldegem,43000,Arrondissement Eeklo,Arrondissement d’Eeklo,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+43014,Sint-Laureins,Sint-Laureins,43000,Arrondissement Eeklo,Arrondissement d’Eeklo,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+43018,Zelzate,Zelzate,43000,Arrondissement Eeklo,Arrondissement d’Eeklo,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+44012,De Pinte,De Pinte,44000,Arrondissement Gent,Arrondissement de Gand,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+44013,Destelbergen,Destelbergen,44000,Arrondissement Gent,Arrondissement de Gand,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+44019,Evergem,Evergem,44000,Arrondissement Gent,Arrondissement de Gand,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+44020,Gavere,Gavere,44000,Arrondissement Gent,Arrondissement de Gand,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+44021,Gent,Gand,44000,Arrondissement Gent,Arrondissement de Gand,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+44034,Lochristi,Lochristi,44000,Arrondissement Gent,Arrondissement de Gand,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+44040,Melle,Melle,44000,Arrondissement Gent,Arrondissement de Gand,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+44043,Merelbeke,Merelbeke,44000,Arrondissement Gent,Arrondissement de Gand,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+44045,Moerbeke,Moerbeke,44000,Arrondissement Gent,Arrondissement de Gand,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+44048,Nazareth,Nazareth,44000,Arrondissement Gent,Arrondissement de Gand,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+44052,Oosterzele,Oosterzele,44000,Arrondissement Gent,Arrondissement de Gand,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+44064,Sint-Martens-Latem,Sint-Martens-Latem,44000,Arrondissement Gent,Arrondissement de Gand,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+44073,Wachtebeke,Wachtebeke,44000,Arrondissement Gent,Arrondissement de Gand,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+44081,Zulte,Zulte,44000,Arrondissement Gent,Arrondissement de Gand,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+44083,Deinze,Deinze,44000,Arrondissement Gent,Arrondissement de Gand,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+44084,Aalter,Aalter,44000,Arrondissement Gent,Arrondissement de Gand,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+44085,Lievegem,Lievegem,44000,Arrondissement Gent,Arrondissement de Gand,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+45035,Oudenaarde,Audenarde,45000,Arrondissement Oudenaarde,Arrondissement d’Audenarde,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+45041,Ronse,Renaix,45000,Arrondissement Oudenaarde,Arrondissement d’Audenarde,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+45059,Brakel,Brakel,45000,Arrondissement Oudenaarde,Arrondissement d’Audenarde,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+45060,Kluisbergen,Kluisbergen,45000,Arrondissement Oudenaarde,Arrondissement d’Audenarde,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+45061,Wortegem-Petegem,Wortegem-Petegem,45000,Arrondissement Oudenaarde,Arrondissement d’Audenarde,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+45062,Horebeke,Horebeke,45000,Arrondissement Oudenaarde,Arrondissement d’Audenarde,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+45063,Lierde,Lierde,45000,Arrondissement Oudenaarde,Arrondissement d’Audenarde,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+45064,Maarkedal,Maarkedal,45000,Arrondissement Oudenaarde,Arrondissement d’Audenarde,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+45065,Zwalm,Zwalin,45000,Arrondissement Oudenaarde,Arrondissement d’Audenarde,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+45068,Kruisem,Kruisem,45000,Arrondissement Oudenaarde,Arrondissement d’Audenarde,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+46003,Beveren,Beveren,46000,Arrondissement Sint-Niklaas,Arrondissement de Saint-Nicolas,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+46013,Kruibeke,Kruibeke,46000,Arrondissement Sint-Niklaas,Arrondissement de Saint-Nicolas,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+46014,Lokeren,Lokeren,46000,Arrondissement Sint-Niklaas,Arrondissement de Saint-Nicolas,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+46020,Sint-Gillis-Waas,Sint-Gillis-Waas,46000,Arrondissement Sint-Niklaas,Arrondissement de Saint-Nicolas,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+46021,Sint-Niklaas,Sint-Niklaas,46000,Arrondissement Sint-Niklaas,Arrondissement de Saint-Nicolas,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+46024,Stekene,Stekene,46000,Arrondissement Sint-Niklaas,Arrondissement de Saint-Nicolas,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+46025,Temse,Tamise,46000,Arrondissement Sint-Niklaas,Arrondissement de Saint-Nicolas,40000,Provincie Oost-Vlaanderen,Province de Flandre orientale,02000,Vlaams Gewest,Région flamande
+51004,Aat,Ath,51000,Arrondissement Aat,Arrondissement d’Ath,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+51008,Beloeil,Beloeil,51000,Arrondissement Aat,Arrondissement d’Ath,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+51009,Bernissart,Bernissart,51000,Arrondissement Aat,Arrondissement d’Ath,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+51012,Brugelette,Brugelette,51000,Arrondissement Aat,Arrondissement d’Ath,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+51014,Chièvres,Chièvres,51000,Arrondissement Aat,Arrondissement d’Ath,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+51017,Elzele,Ellezelles,51000,Arrondissement Aat,Arrondissement d’Ath,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+51019,Vloesberg,Flobecq,51000,Arrondissement Aat,Arrondissement d’Ath,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+51065,Frasnes-lez-Anvaing,Frasnes-lez-Anvaing,51000,Arrondissement Aat,Arrondissement d’Ath,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+51067,Edingen,Enghien,51000,Arrondissement Aat,Arrondissement d’Ath,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+51068,Opzullik,Silly,51000,Arrondissement Aat,Arrondissement d’Ath,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+51069,Lessen,Lessines,51000,Arrondissement Aat,Arrondissement d’Ath,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+52010,Chapelle-lez-Herlaimont,Chapelle-lez-Herlaimont,52000,Arrondissement Charleroi,Arrondissement de Charleroi,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+52011,Charleroi,Charleroi,52000,Arrondissement Charleroi,Arrondissement de Charleroi,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+52012,Châtelet,Châtelet,52000,Arrondissement Charleroi,Arrondissement de Charleroi,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+52015,Courcelles,Courcelles,52000,Arrondissement Charleroi,Arrondissement de Charleroi,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+52018,Farciennes,Farciennes,52000,Arrondissement Charleroi,Arrondissement de Charleroi,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+52021,Fleurus,Fleurus,52000,Arrondissement Charleroi,Arrondissement de Charleroi,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+52022,Fontaine-l’Evêque,Fontaine-l’Evêque,52000,Arrondissement Charleroi,Arrondissement de Charleroi,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+52025,Gerpinnes,Gerpinnes,52000,Arrondissement Charleroi,Arrondissement de Charleroi,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+52048,Montigny-le-Tilleul,Montigny-le-Tilleul,52000,Arrondissement Charleroi,Arrondissement de Charleroi,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+52055,Pont-à-Celles,Pont-à-Celles,52000,Arrondissement Charleroi,Arrondissement de Charleroi,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+52074,Aiseau-Presles,Aiseau-Presles,52000,Arrondissement Charleroi,Arrondissement de Charleroi,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+52075,Les Bons Villers,Les Bons Villers,52000,Arrondissement Charleroi,Arrondissement de Charleroi,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+53014,Boussu,Boussu,53000,Arrondissement Bergen,Arrondissement de Mons,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+53020,Dour,Dour,53000,Arrondissement Bergen,Arrondissement de Mons,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+53028,Frameries,Frameries,53000,Arrondissement Bergen,Arrondissement de Mons,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+53039,Hensies,Hensies,53000,Arrondissement Bergen,Arrondissement de Mons,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+53044,Jurbeke,Jurbise,53000,Arrondissement Bergen,Arrondissement de Mons,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+53046,Lens,Lens,53000,Arrondissement Bergen,Arrondissement de Mons,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+53053,Bergen,Mons,53000,Arrondissement Bergen,Arrondissement de Mons,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+53065,Quaregnon,Quaregnon,53000,Arrondissement Bergen,Arrondissement de Mons,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+53068,Quiévrain,Quiévrain,53000,Arrondissement Bergen,Arrondissement de Mons,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+53070,Saint-Ghislain,Saint-Ghislain,53000,Arrondissement Bergen,Arrondissement de Mons,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+53082,Colfontaine,Colfontaine,53000,Arrondissement Bergen,Arrondissement de Mons,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+53083,Honnelles,Honnelles,53000,Arrondissement Bergen,Arrondissement de Mons,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+53084,Quévy,Quévy,53000,Arrondissement Bergen,Arrondissement de Mons,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+55004,’s Gravenbrakel,Braine-le-Comte,55000,Arrondissement Zinnik,Arrondissement de Soignies,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+55035,Le Roeulx,Le Roeulx,55000,Arrondissement Zinnik,Arrondissement de Soignies,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+55040,Zinnik,Soignies,55000,Arrondissement Zinnik,Arrondissement de Soignies,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+55050,Ecaussinnes,Ecaussinnes,55000,Arrondissement Zinnik,Arrondissement de Soignies,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+55085,Seneffe,Seneffe,55000,Arrondissement Zinnik,Arrondissement de Soignies,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+55086,Manage,Manage,55000,Arrondissement Zinnik,Arrondissement de Soignies,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+56001,Anderlues,Anderlues,56000,Arrondissement Thuin,Arrondissement de Thuin,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+56005,Beaumont,Beaumont,56000,Arrondissement Thuin,Arrondissement de Thuin,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+56016,Chimay,Chimay,56000,Arrondissement Thuin,Arrondissement de Thuin,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+56022,Erquelinnes,Erquelinnes,56000,Arrondissement Thuin,Arrondissement de Thuin,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+56029,Froidchapelle,Froidchapelle,56000,Arrondissement Thuin,Arrondissement de Thuin,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+56044,Lobbes,Lobbes,56000,Arrondissement Thuin,Arrondissement de Thuin,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+56049,Merbes-le-Château,Merbes-le-Château,56000,Arrondissement Thuin,Arrondissement de Thuin,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+56051,Momignies,Momignies,56000,Arrondissement Thuin,Arrondissement de Thuin,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+56078,Thuin,Thuin,56000,Arrondissement Thuin,Arrondissement de Thuin,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+56086,Ham-sur-Heure-Nalinnes,Ham-sur-Heure-Nalinnes,56000,Arrondissement Thuin,Arrondissement de Thuin,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+56088,Sivry-Rance,Sivry-Rance,56000,Arrondissement Thuin,Arrondissement de Thuin,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+57003,Antoing,Antoing,57000,Arrondissement Doornik-Moeskroen,Arrondissement de Tournai-Mouscron,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+57018,Celles,Celles,57000,Arrondissement Doornik-Moeskroen,Arrondissement de Tournai-Mouscron,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+57027,Estaimpuis,Estaimpuis,57000,Arrondissement Doornik-Moeskroen,Arrondissement de Tournai-Mouscron,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+57062,Pecq,Pecq,57000,Arrondissement Doornik-Moeskroen,Arrondissement de Tournai-Mouscron,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+57064,Péruwelz,Péruwelz,57000,Arrondissement Doornik-Moeskroen,Arrondissement de Tournai-Mouscron,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+57072,Rumes,Rumes,57000,Arrondissement Doornik-Moeskroen,Arrondissement de Tournai-Mouscron,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+57081,Doornik,Tournai,57000,Arrondissement Doornik-Moeskroen,Arrondissement de Tournai-Mouscron,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+57093,Brunehaut,Brunehaut,57000,Arrondissement Doornik-Moeskroen,Arrondissement de Tournai-Mouscron,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+57094,Leuze-en-Hainaut,Leuze-en-Hainaut,57000,Arrondissement Doornik-Moeskroen,Arrondissement de Tournai-Mouscron,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+57095,Mont-de-l’Enclus,Mont-de-l’Enclus,57000,Arrondissement Doornik-Moeskroen,Arrondissement de Tournai-Mouscron,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+57096,Moeskroen,Mouscron,57000,Arrondissement Doornik-Moeskroen,Arrondissement de Tournai-Mouscron,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+57097,Komen-Waasten,Comines-Warneton,57000,Arrondissement Doornik-Moeskroen,Arrondissement de Tournai-Mouscron,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+58001,La Louvière,La Louvière,58000,Arrondissement La Louvière,Arrondissement de La Louvière,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+58002,Binche,Binche,58000,Arrondissement La Louvière,Arrondissement de La Louvière,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+58003,Estinnes,Estinnes,58000,Arrondissement La Louvière,Arrondissement de La Louvière,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+58004,Morlanwelz,Morlanwelz,58000,Arrondissement La Louvière,Arrondissement de La Louvière,50000,Provincie Henegouwen,Province du Hainaut,03000,Waals Gewest,Région wallonne
+61003,Amay,Amay,61000,Arrondissement Hoei,Arrondissement de Huy,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+61010,Burdinne,Burdinne,61000,Arrondissement Hoei,Arrondissement de Huy,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+61012,Clavier,Clavier,61000,Arrondissement Hoei,Arrondissement de Huy,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+61019,Ferrières,Ferrières,61000,Arrondissement Hoei,Arrondissement de Huy,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+61024,Hamoir,Hamoir,61000,Arrondissement Hoei,Arrondissement de Huy,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+61028,Héron,Héron,61000,Arrondissement Hoei,Arrondissement de Huy,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+61031,Hoei,Huy,61000,Arrondissement Hoei,Arrondissement de Huy,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+61039,Marchin,Marchin,61000,Arrondissement Hoei,Arrondissement de Huy,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+61041,Modave,Modave,61000,Arrondissement Hoei,Arrondissement de Huy,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+61043,Nandrin,Nandrin,61000,Arrondissement Hoei,Arrondissement de Huy,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+61048,Ouffet,Ouffet,61000,Arrondissement Hoei,Arrondissement de Huy,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+61063,Verlaine,Verlaine,61000,Arrondissement Hoei,Arrondissement de Huy,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+61068,Villers-Le-Bouillet,Villers-Le-Bouillet,61000,Arrondissement Hoei,Arrondissement de Huy,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+61072,Wanze,Wanze,61000,Arrondissement Hoei,Arrondissement de Huy,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+61079,Anthisnes,Anthisnes,61000,Arrondissement Hoei,Arrondissement de Huy,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+61080,Engis,Engis,61000,Arrondissement Hoei,Arrondissement de Huy,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+61081,Tinlot,Tinlot,61000,Arrondissement Hoei,Arrondissement de Huy,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+62003,Ans,Ans,62000,Arrondissement Luik,Arrondissement de Liège,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+62006,Awans,Awans,62000,Arrondissement Luik,Arrondissement de Liège,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+62009,Aywaille,Aywaille,62000,Arrondissement Luik,Arrondissement de Liège,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+62011,Bitsingen,Bassenge,62000,Arrondissement Luik,Arrondissement de Liège,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+62015,Beyne-Heusay,Beyne-Heusay,62000,Arrondissement Luik,Arrondissement de Liège,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+62022,Chaudfontaine,Chaudfontaine,62000,Arrondissement Luik,Arrondissement de Liège,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+62026,Comblain-au-Pont,Comblain-au-Pont,62000,Arrondissement Luik,Arrondissement de Liège,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+62027,Dalhem,Dalhem,62000,Arrondissement Luik,Arrondissement de Liège,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+62032,Esneux,Esneux,62000,Arrondissement Luik,Arrondissement de Liège,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+62038,Fléron,Fléron,62000,Arrondissement Luik,Arrondissement de Liège,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+62051,Herstal,Herstal,62000,Arrondissement Luik,Arrondissement de Liège,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+62060,Juprelle,Juprelle,62000,Arrondissement Luik,Arrondissement de Liège,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+62063,Luik,Liège,62000,Arrondissement Luik,Arrondissement de Liège,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+62079,Oupeye,Oupeye,62000,Arrondissement Luik,Arrondissement de Liège,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+62093,Saint-Nicolas,Saint-Nicolas,62000,Arrondissement Luik,Arrondissement de Liège,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+62096,Seraing,Seraing,62000,Arrondissement Luik,Arrondissement de Liège,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+62099,Soumagne,Soumagne,62000,Arrondissement Luik,Arrondissement de Liège,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+62100,Sprimont,Sprimont,62000,Arrondissement Luik,Arrondissement de Liège,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+62108,Wezet,Visé,62000,Arrondissement Luik,Arrondissement de Liège,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+62118,Grâce-Hollogne,Grâce-Hollogne,62000,Arrondissement Luik,Arrondissement de Liège,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+62119,Blegny,Blegny,62000,Arrondissement Luik,Arrondissement de Liège,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+62120,Flémalle,Flémalle,62000,Arrondissement Luik,Arrondissement de Liège,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+62121,Neupré,Neupré,62000,Arrondissement Luik,Arrondissement de Liège,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+62122,Trooz,Trooz,62000,Arrondissement Luik,Arrondissement de Liège,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+63001,Amel,Amblève,63000,Arrondissement Verviers,Arrondissement de Verviers,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+63003,Aubel,Aubel,63000,Arrondissement Verviers,Arrondissement de Verviers,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+63004,Baelen,Baelen,63000,Arrondissement Verviers,Arrondissement de Verviers,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+63012,Büllingen,Bullange,63000,Arrondissement Verviers,Arrondissement de Verviers,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+63013,Bütgenbach,Butgenbach,63000,Arrondissement Verviers,Arrondissement de Verviers,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+63020,Dison,Dison,63000,Arrondissement Verviers,Arrondissement de Verviers,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+63023,Eupen,Eupen,63000,Arrondissement Verviers,Arrondissement de Verviers,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+63035,Herve,Herve,63000,Arrondissement Verviers,Arrondissement de Verviers,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+63038,Jalhay,Jalhay,63000,Arrondissement Verviers,Arrondissement de Verviers,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+63040,Kelmis,La Calamine,63000,Arrondissement Verviers,Arrondissement de Verviers,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+63045,Lierneux,Lierneux,63000,Arrondissement Verviers,Arrondissement de Verviers,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+63046,Limburg,Limbourg,63000,Arrondissement Verviers,Arrondissement de Verviers,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+63048,Lontzen,Lontzen,63000,Arrondissement Verviers,Arrondissement de Verviers,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+63049,Malmedy,Malmedy,63000,Arrondissement Verviers,Arrondissement de Verviers,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+63057,Olne,Olne,63000,Arrondissement Verviers,Arrondissement de Verviers,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+63058,Pepinster,Pepinster,63000,Arrondissement Verviers,Arrondissement de Verviers,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+63061,Raeren,Raeren,63000,Arrondissement Verviers,Arrondissement de Verviers,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+63067,Sankt Vith,Saint-Vith,63000,Arrondissement Verviers,Arrondissement de Verviers,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+63072,Spa,Spa,63000,Arrondissement Verviers,Arrondissement de Verviers,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+63073,Stavelot,Stavelot,63000,Arrondissement Verviers,Arrondissement de Verviers,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+63075,Stoumont,Stoumont,63000,Arrondissement Verviers,Arrondissement de Verviers,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+63076,Theux,Theux,63000,Arrondissement Verviers,Arrondissement de Verviers,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+63079,Verviers,Verviers,63000,Arrondissement Verviers,Arrondissement de Verviers,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+63080,Weismes,Waimes,63000,Arrondissement Verviers,Arrondissement de Verviers,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+63084,Welkenraedt,Welkenraedt,63000,Arrondissement Verviers,Arrondissement de Verviers,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+63086,Trois-Ponts,Trois-Ponts,63000,Arrondissement Verviers,Arrondissement de Verviers,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+63087,Burg-Reuland,Burg-Reuland,63000,Arrondissement Verviers,Arrondissement de Verviers,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+63088,Plombières,Plombières,63000,Arrondissement Verviers,Arrondissement de Verviers,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+63089,Thimister-Clermont,Thimister-Clermont,63000,Arrondissement Verviers,Arrondissement de Verviers,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+64008,Berloz,Berloz,64000,Arrondissement Borgworm,Arrondissement de Waremme,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+64015,Braives,Braives,64000,Arrondissement Borgworm,Arrondissement de Waremme,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+64021,Crisnée,Crisnée,64000,Arrondissement Borgworm,Arrondissement de Waremme,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+64023,Donceel,Donceel,64000,Arrondissement Borgworm,Arrondissement de Waremme,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+64025,Fexhe-le-Haut-Clocher,Fexhe-le-Haut-Clocher,64000,Arrondissement Borgworm,Arrondissement de Waremme,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+64029,Geer,Geer,64000,Arrondissement Borgworm,Arrondissement de Waremme,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+64034,Hannuit,Hannut,64000,Arrondissement Borgworm,Arrondissement de Waremme,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+64047,Lijsem,Lincent,64000,Arrondissement Borgworm,Arrondissement de Waremme,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+64056,Oerle,Oreye,64000,Arrondissement Borgworm,Arrondissement de Waremme,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+64063,Remicourt,Remicourt,64000,Arrondissement Borgworm,Arrondissement de Waremme,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+64065,Saint-Georges-sur-Meuse,Saint-Georges-sur-Meuse,64000,Arrondissement Borgworm,Arrondissement de Waremme,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+64074,Borgworm,Waremme,64000,Arrondissement Borgworm,Arrondissement de Waremme,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+64075,Wasseiges,Wasseiges,64000,Arrondissement Borgworm,Arrondissement de Waremme,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+64076,Faimes,Faimes,64000,Arrondissement Borgworm,Arrondissement de Waremme,60000,Provincie Luik,Province de Liège,03000,Waals Gewest,Région wallonne
+71002,As,As,71000,Arrondissement Hasselt,Arrondissement de Hasselt,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+71004,Beringen,Beringen,71000,Arrondissement Hasselt,Arrondissement de Hasselt,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+71011,Diepenbeek,Diepenbeek,71000,Arrondissement Hasselt,Arrondissement de Hasselt,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+71016,Genk,Genk,71000,Arrondissement Hasselt,Arrondissement de Hasselt,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+71017,Gingelom,Gingelom,71000,Arrondissement Hasselt,Arrondissement de Hasselt,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+71020,Halen,Halen,71000,Arrondissement Hasselt,Arrondissement de Hasselt,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+71022,Hasselt,Hasselt,71000,Arrondissement Hasselt,Arrondissement de Hasselt,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+71024,Herk-de-Stad,Herck-la-Ville,71000,Arrondissement Hasselt,Arrondissement de Hasselt,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+71034,Leopoldsburg,Bourg-Léopold,71000,Arrondissement Hasselt,Arrondissement de Hasselt,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+71037,Lummen,Lummen,71000,Arrondissement Hasselt,Arrondissement de Hasselt,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+71045,Nieuwerkerken,Nieuwerkerken,71000,Arrondissement Hasselt,Arrondissement de Hasselt,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+71053,Sint-Truiden,Saint-Trond,71000,Arrondissement Hasselt,Arrondissement de Hasselt,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+71057,Tessenderlo,Tessenderlo,71000,Arrondissement Hasselt,Arrondissement de Hasselt,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+71066,Zonhoven,Zonhoven,71000,Arrondissement Hasselt,Arrondissement de Hasselt,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+71067,Zutendaal,Zutendaal,71000,Arrondissement Hasselt,Arrondissement de Hasselt,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+71069,Ham,Ham,71000,Arrondissement Hasselt,Arrondissement de Hasselt,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+71070,Heusden-Zolder,Heusden-Zolder,71000,Arrondissement Hasselt,Arrondissement de Hasselt,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+72003,Bocholt,Bocholt,72000,Arrondissement Maaseik,Arrondissement de Maaseik,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+72004,Bree,Bree,72000,Arrondissement Maaseik,Arrondissement de Maaseik,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+72018,Kinrooi,Kinrooi,72000,Arrondissement Maaseik,Arrondissement de Maaseik,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+72020,Lommel,Lommel,72000,Arrondissement Maaseik,Arrondissement de Maaseik,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+72021,Maaseik,Maaseik,72000,Arrondissement Maaseik,Arrondissement de Maaseik,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+72030,Peer,Peer,72000,Arrondissement Maaseik,Arrondissement de Maaseik,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+72037,Hamont-Achel,Hamont-Achel,72000,Arrondissement Maaseik,Arrondissement de Maaseik,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+72038,Hechtel-Eksel,Hechtel-Eksel,72000,Arrondissement Maaseik,Arrondissement de Maaseik,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+72039,Houthalen-Helchteren,Houthalen-Helchteren,72000,Arrondissement Maaseik,Arrondissement de Maaseik,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+72041,Dilsen-Stokkem,Dilsen-Stokkem,72000,Arrondissement Maaseik,Arrondissement de Maaseik,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+72042,Oudsbergen,Oudsbergen,72000,Arrondissement Maaseik,Arrondissement de Maaseik,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+72043,Pelt,Pelt,72000,Arrondissement Maaseik,Arrondissement de Maaseik,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+73001,Alken,Alken,73000,Arrondissement Tongeren,Arrondissement de Tongres,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+73006,Bilzen,Bilzen,73000,Arrondissement Tongeren,Arrondissement de Tongres,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+73009,Borgloon,Looz,73000,Arrondissement Tongeren,Arrondissement de Tongres,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+73022,Heers,Heers,73000,Arrondissement Tongeren,Arrondissement de Tongres,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+73028,Herstappe,Herstappe,73000,Arrondissement Tongeren,Arrondissement de Tongres,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+73032,Hoeselt,Hoeselt,73000,Arrondissement Tongeren,Arrondissement de Tongres,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+73040,Kortessem,Kortessem,73000,Arrondissement Tongeren,Arrondissement de Tongres,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+73042,Lanaken,Lanaken,73000,Arrondissement Tongeren,Arrondissement de Tongres,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+73066,Riemst,Riemst,73000,Arrondissement Tongeren,Arrondissement de Tongres,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+73083,Tongeren,Tongres,73000,Arrondissement Tongeren,Arrondissement de Tongres,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+73098,Wellen,Wellen,73000,Arrondissement Tongeren,Arrondissement de Tongres,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+73107,Maasmechelen,Maasmechelen,73000,Arrondissement Tongeren,Arrondissement de Tongres,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+73109,Voeren,Fourons,73000,Arrondissement Tongeren,Arrondissement de Tongres,70000,Provincie Limburg,Province du Limbourg,02000,Vlaams Gewest,Région flamande
+81001,Aarlen,Arlon,81000,Arrondissement Aarlen,Arrondissement d’Arlon,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+81003,Attert,Attert,81000,Arrondissement Aarlen,Arrondissement d’Arlon,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+81004,Aubange,Aubange,81000,Arrondissement Aarlen,Arrondissement d’Arlon,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+81013,Martelange,Martelange,81000,Arrondissement Aarlen,Arrondissement d’Arlon,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+81015,Messancy,Messancy,81000,Arrondissement Aarlen,Arrondissement d’Arlon,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+82003,Bastenaken,Bastogne,82000,Arrondissement Bastenaken,Arrondissement de Bastogne,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+82005,Bertogne,Bertogne,82000,Arrondissement Bastenaken,Arrondissement de Bastogne,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+82009,Fauvillers,Fauvillers,82000,Arrondissement Bastenaken,Arrondissement de Bastogne,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+82014,Houffalize,Houffalize,82000,Arrondissement Bastenaken,Arrondissement de Bastogne,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+82032,Vielsalm,Vielsalm,82000,Arrondissement Bastenaken,Arrondissement de Bastogne,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+82036,Vaux-sur-Sûre,Vaux-sur-Sûre,82000,Arrondissement Bastenaken,Arrondissement de Bastogne,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+82037,Gouvy,Gouvy,82000,Arrondissement Bastenaken,Arrondissement de Bastogne,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+82038,Sainte-Ode,Sainte-Ode,82000,Arrondissement Bastenaken,Arrondissement de Bastogne,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+83012,Durbuy,Durbuy,83000,Arrondissement Marche-en-Famenne,Arrondissement de Marche-en-Famenne,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+83013,Erezée,Erezée,83000,Arrondissement Marche-en-Famenne,Arrondissement de Marche-en-Famenne,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+83028,Hotton,Hotton,83000,Arrondissement Marche-en-Famenne,Arrondissement de Marche-en-Famenne,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+83031,La Roche-en-Ardenne,La Roche-en-Ardenne,83000,Arrondissement Marche-en-Famenne,Arrondissement de Marche-en-Famenne,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+83034,Marche-en-Famenne,Marche-en-Famenne,83000,Arrondissement Marche-en-Famenne,Arrondissement de Marche-en-Famenne,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+83040,Nassogne,Nassogne,83000,Arrondissement Marche-en-Famenne,Arrondissement de Marche-en-Famenne,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+83044,Rendeux,Rendeux,83000,Arrondissement Marche-en-Famenne,Arrondissement de Marche-en-Famenne,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+83049,Tenneville,Tenneville,83000,Arrondissement Marche-en-Famenne,Arrondissement de Marche-en-Famenne,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+83055,Manhay,Manhay,83000,Arrondissement Marche-en-Famenne,Arrondissement de Marche-en-Famenne,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+84009,Bertrix,Bertrix,84000,Arrondissement Neufchâteau,Arrondissement de Neufchâteau,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+84010,Bouillon,Bouillon,84000,Arrondissement Neufchâteau,Arrondissement de Neufchâteau,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+84016,Daverdisse,Daverdisse,84000,Arrondissement Neufchâteau,Arrondissement de Neufchâteau,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+84029,Herbeumont,Herbeumont,84000,Arrondissement Neufchâteau,Arrondissement de Neufchâteau,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+84033,Léglise,Léglise,84000,Arrondissement Neufchâteau,Arrondissement de Neufchâteau,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+84035,Libin,Libin,84000,Arrondissement Neufchâteau,Arrondissement de Neufchâteau,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+84043,Neufchâteau,Neufchâteau,84000,Arrondissement Neufchâteau,Arrondissement de Neufchâteau,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+84050,Paliseul,Paliseul,84000,Arrondissement Neufchâteau,Arrondissement de Neufchâteau,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+84059,Saint-Hubert,Saint-Hubert,84000,Arrondissement Neufchâteau,Arrondissement de Neufchâteau,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+84068,Tellin,Tellin,84000,Arrondissement Neufchâteau,Arrondissement de Neufchâteau,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+84075,Wellin,Wellin,84000,Arrondissement Neufchâteau,Arrondissement de Neufchâteau,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+84077,Libramont-Chevigny,Libramont-Chevigny,84000,Arrondissement Neufchâteau,Arrondissement de Neufchâteau,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+85007,Chiny,Chiny,85000,Arrondissement Virton,Arrondissement de Virton,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+85009,Etalle,Etalle,85000,Arrondissement Virton,Arrondissement de Virton,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+85011,Florenville,Florenville,85000,Arrondissement Virton,Arrondissement de Virton,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+85024,Meix-devant-Virton,Meix-devant-Virton,85000,Arrondissement Virton,Arrondissement de Virton,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+85026,Musson,Musson,85000,Arrondissement Virton,Arrondissement de Virton,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+85034,Saint-Léger,Saint-Léger,85000,Arrondissement Virton,Arrondissement de Virton,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+85039,Tintigny,Tintigny,85000,Arrondissement Virton,Arrondissement de Virton,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+85045,Virton,Virton,85000,Arrondissement Virton,Arrondissement de Virton,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+85046,Habay,Habay,85000,Arrondissement Virton,Arrondissement de Virton,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+85047,Rouvroy,Rouvroy,85000,Arrondissement Virton,Arrondissement de Virton,80000,Provincie Luxemburg,Province du Luxembourg,03000,Waals Gewest,Région wallonne
+91005,Anhée,Anhée,91000,Arrondissement Dinant,Arrondissement de Dinant,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne
+91013,Beauraing,Beauraing,91000,Arrondissement Dinant,Arrondissement de Dinant,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne
+91015,Bièvre,Bièvre,91000,Arrondissement Dinant,Arrondissement de Dinant,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne
+91030,Ciney,Ciney,91000,Arrondissement Dinant,Arrondissement de Dinant,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne
+91034,Dinant,Dinant,91000,Arrondissement Dinant,Arrondissement de Dinant,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne
+91054,Gedinne,Gedinne,91000,Arrondissement Dinant,Arrondissement de Dinant,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne
+91059,Hamois,Hamois,91000,Arrondissement Dinant,Arrondissement de Dinant,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne
+91064,Havelange,Havelange,91000,Arrondissement Dinant,Arrondissement de Dinant,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne
+91072,Houyet,Houyet,91000,Arrondissement Dinant,Arrondissement de Dinant,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne
+91103,Onhaye,Onhaye,91000,Arrondissement Dinant,Arrondissement de Dinant,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne
+91114,Rochefort,Rochefort,91000,Arrondissement Dinant,Arrondissement de Dinant,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne
+91120,Somme-Leuze,Somme-Leuze,91000,Arrondissement Dinant,Arrondissement de Dinant,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne
+91141,Yvoir,Yvoir,91000,Arrondissement Dinant,Arrondissement de Dinant,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne
+91142,Hastière,Hastière,91000,Arrondissement Dinant,Arrondissement de Dinant,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne
+91143,Vresse-sur-Semois,Vresse-sur-Semois,91000,Arrondissement Dinant,Arrondissement de Dinant,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne
+92003,Andenne,Andenne,92000,Arrondissement Namen,Arrondissement de Namur,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne
+92006,Assesse,Assesse,92000,Arrondissement Namen,Arrondissement de Namur,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne
+92035,Eghezée,Eghezée,92000,Arrondissement Namen,Arrondissement de Namur,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne
+92045,Floreffe,Floreffe,92000,Arrondissement Namen,Arrondissement de Namur,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne
+92048,Fosses-la-Ville,Fosses-la-Ville,92000,Arrondissement Namen,Arrondissement de Namur,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne
+92054,Gesves,Gesves,92000,Arrondissement Namen,Arrondissement de Namur,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne
+92087,Mettet,Mettet,92000,Arrondissement Namen,Arrondissement de Namur,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne
+92094,Namen,Namur,92000,Arrondissement Namen,Arrondissement de Namur,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne
+92097,Ohey,Ohey,92000,Arrondissement Namen,Arrondissement de Namur,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne
+92101,Profondeville,Profondeville,92000,Arrondissement Namen,Arrondissement de Namur,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne
+92114,Sombreffe,Sombreffe,92000,Arrondissement Namen,Arrondissement de Namur,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne
+92137,Sambreville,Sambreville,92000,Arrondissement Namen,Arrondissement de Namur,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne
+92138,Fernelmont,Fernelmont,92000,Arrondissement Namen,Arrondissement de Namur,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne
+92140,Jemeppe-sur-Sambre,Jemeppe-sur-Sambre,92000,Arrondissement Namen,Arrondissement de Namur,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne
+92141,La Bruyère,La Bruyère,92000,Arrondissement Namen,Arrondissement de Namur,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne
+92142,Gembloux,Gembloux,92000,Arrondissement Namen,Arrondissement de Namur,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne
+93010,Cerfontaine,Cerfontaine,93000,Arrondissement Philippeville,Arrondissement de Philippeville,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne
+93014,Couvin,Couvin,93000,Arrondissement Philippeville,Arrondissement de Philippeville,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne
+93018,Doische,Doische,93000,Arrondissement Philippeville,Arrondissement de Philippeville,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne
+93022,Florennes,Florennes,93000,Arrondissement Philippeville,Arrondissement de Philippeville,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne
+93056,Philippeville,Philippeville,93000,Arrondissement Philippeville,Arrondissement de Philippeville,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne
+93088,Walcourt,Walcourt,93000,Arrondissement Philippeville,Arrondissement de Philippeville,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne
+93090,Viroinval,Viroinval,93000,Arrondissement Philippeville,Arrondissement de Philippeville,90000,Provincie Namen,Province de Namur,03000,Waals Gewest,Région wallonne

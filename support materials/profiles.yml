@@ -1,0 +1,12 @@
+dbt_idewe:
+  outputs:
+    dev:
+      database: sqldb-dev-weu-dai
+      driver: ODBC Driver 18 for SQL Server
+      password: HLQwG9rsRmmszo5
+      port: 1433
+      schema: dev_jesse
+      server: sql-dev-weu-dai.database.windows.net
+      type: sqlserver
+      user: usr_dbt
+  target: dev
