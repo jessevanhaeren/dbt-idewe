@@ -1,0 +1,19 @@
+version: 2
+
+exposures:
+
+  - name: Prestaties
+    type: dashboard                         # required
+    maturity: high                          # optional
+    url: https://app.powerbi.com/groups/e8964de0-671e-4b6d-b9d6-725034eafa8b/reports/08862ce6-a62b-4222-98cb-5b2226bbc68f/90520d3ce07eb45cd405?experience=power-bi       # optional
+    description: overzicht van de geleverde prestaties met deepdives in personeeel & werkgevers
+
+    depends_on:                             # expected
+      - ref('sem_dim_personeel')
+      - ref('sem_dim_werkgever')
+      - ref('sem_fct_prestaties')
+
+    owner:
+      name: Jesse
+      email: Jesse.Vanhaeren@idewe.onmicrosoft.com
+
