@@ -7,6 +7,6 @@
             )
 }}
 
-SELECT *   FROM {{ source('prestaties', 'personeel')}}
+SELECT *   FROM {{ref("stg_dim_personeel")}}
 
 {% endsnapshot %}
